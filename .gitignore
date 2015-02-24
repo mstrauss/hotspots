@@ -1,0 +1,12 @@
+*.png
+/results*
+/profile_results/
+/*.mat
+.findr-config
+*.png
+*.pgw
+
+% MATLAB backup and editor temp. files
+**/*.asv
+**/*~
+**/#*#
