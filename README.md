@@ -1,7 +1,6 @@
 This repository (find the latest version at https://github.com/mstrauss/hotspots) contains the software used in the article
 
-> Strauss M, Klimek P, Sonneck G, Niederkrotenthaler T.  Suicides on the Austrian Railway Network: Hotspot Analysis and
-Effect of Proximity to Psychiatric Institutions. [under review]
+> Strauss MJ, Klimek P, Sonneck G, Niederkrotenthaler T.  Suicides on the Austrian railway network: hotspot analysis and effect of proximity to psychiatric institutions. R. Soc. open sci. 2017 4 160711; [DOI: 10.1098/rsos.160711](https://doi.org/10.1098/rsos.160711). Published 8 March 2017.
 
 The code allows to identify hotspots/clusters (as defined in above paper) on a spatial network.  The original suicide data are not included, but instead we provide random surrogate data.  Still, to run the unmodified code, additional data from the cited sources need to be obtained.
 
